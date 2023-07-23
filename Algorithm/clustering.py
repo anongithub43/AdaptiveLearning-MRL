@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 This file contains the functions to generate and perform the MDP clustering
-
-algorithm on data for the MIT-Lahey Opioids project.
-
-Created on Sun Mar  1 18:48:20 2020
-
-@author: omars
 """
 
 #################################################################

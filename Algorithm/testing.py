@@ -5,8 +5,6 @@ This file is intended to perform various testing measurements on the output of
 the MDP Clustering Algorithm. 
 
 Created on Sun Apr 26 23:13:09 2020
-
-@author: Amine
 """
 #################################################################
 # Load Libraries

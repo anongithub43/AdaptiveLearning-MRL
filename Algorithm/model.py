@@ -4,8 +4,6 @@
 Created on Mon May 25 19:47:03 2020
 
 Model Class that runs the MRL algorithm on any data.  
-
-@author: janiceyang
 """
 
 #################################################################
