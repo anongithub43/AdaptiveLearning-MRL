@@ -2,6 +2,13 @@
 
 This repo contains our experiments for testing MRL against ORSuite on the maze environment. 
 
+After installing the requirments, you must also run
+
+`cd gym-maze` 
+`python setup.py install`
+
+in order to install the gym-maze environment
+
 ## New or Changed Files
 
 `run-adaptive-maze.py` runs adaptive learning models on the maze and records the data, rewards, and optimality gap for the adaptive models. 
