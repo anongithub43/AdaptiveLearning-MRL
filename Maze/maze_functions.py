@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jun 18 20:57:14 2020
-
-@author: janiceyang
 """
 #################################################################
 # Load Libraries
